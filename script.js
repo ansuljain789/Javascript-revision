@@ -392,3 +392,5 @@ class Abcd{
 
 
 console.log("why");
+console.log(this);
+
